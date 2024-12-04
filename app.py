@@ -85,7 +85,7 @@ def login():
             conn.close()
             return 'Invalid username or password', 400
 
-    return render_template('login.html')
+    return render_template('index.html')
 
 @app.route('/logout')
 def logout():
