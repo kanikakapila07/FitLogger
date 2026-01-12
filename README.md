@@ -7,6 +7,7 @@
 ### Ryan Korsrud 30173204 (ryan.korsrud@ucalgary.ca)  
 
 #### Instructions  
+Link to open: https://fitlogger.pythonanywhere.com/
 ##### Signing Up  
 1. Click "Sign Up" link to create an account.  
 2. Type in your username.  
